@@ -62,7 +62,6 @@ export default function PhonebookApp() {
     <div className="phonebook-app">
       <h2>📒 Phonebook</h2>
 
-      {/* ADD CONTACT FORM */}
       <form onSubmit={handleSubmit}>
         <input
           type="text"
