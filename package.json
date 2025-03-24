@@ -25,5 +25,10 @@
   },
   "resolutions": {
     "rollup": "^3.29.4"
+  },
+  "overrides": {
+    "vite": {
+      "rollup": "3.29.4"
+    }
   }
 }
